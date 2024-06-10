@@ -1,0 +1,572 @@
+
+TSARLIB
+https://steamcommunity.com/sharedfiles/filedetails/?id=2392709985
+tsarslib
+
+Braven's Utilities
+https://steamcommunity.com/sharedfiles/filedetails/?id=2850135071
+Used in other mods.
+BB_Utils
+
+RotatorsLib
+https://steamcommunity.com/sharedfiles/filedetails/?id=2732594572
+RotatorsLib
+
+Braven's Bicycles Redux
+https://steamcommunity.com/sharedfiles/filedetails/?id=2988491347
+BB_Bicycles
+
+
+Katanas and Machetes on Back
+https://steamcommunity.com/sharedfiles/filedetails/?id=3230865310
+katanasandmachetesonbackorbelt
+
+Sprinter Trueno AE86
+https://steamcommunity.com/sharedfiles/filedetails/?id=2781895054
+SprinterAE86
+Vehicle IDs: 85mercJunk, 85mercSedan, 85mercWagon, 85mercWagon2
+Requires TSARLIB
+
+'85 Mercedes Benz W123
+https://steamcommunity.com/sharedfiles/filedetails/?id=2469388752
+85merc
+Vehicle IDs: 85mercJunk, 85mercSedan, 85mercWagon, 85mercWagon2
+
+'87 TOYOTA Land Cruiser FJ60
+https://steamcommunity.com/sharedfiles/filedetails/?id=2489148104
+87cruiser
+Vehicle IDs: 87cruiser, 87cruiserLights, 87cruiserRoofrack,
+
+'88 Volkswagen Golf Mk2
+https://steamcommunity.com/sharedfiles/filedetails/?id=2516123638
+88golfMk2
+Vehicle IDs: 88golf2doorMk2, 88golf4doorMk2
+
+'88 Volkswagen Jetta Mk2
+https://steamcommunity.com/sharedfiles/filedetails/?id=2522173579
+88jettaMk2
+Vehicle IDs: 88jetta2doorMk2, 88jetta4doorMk2
+
+'89 LAND ROVER Defender 110
+https://steamcommunity.com/sharedfiles/filedetails/?id=2441990998
+89def110
+Vehicle IDs: 89def110, 89def110op
+
+'89 LAND ROVER Defender 90
+https://steamcommunity.com/sharedfiles/filedetails/?id=2443275640
+89def90
+Vehicle IDs: 89def90, 89def90op
+
+'90 Lada Niva
+https://steamcommunity.com/sharedfiles/filedetails/?id=2422681177
+90niva
+Vehicle IDs: 90niva
+
+'91 RANGE ROVER Classic
+https://steamcommunity.com/sharedfiles/filedetails/?id=2409333430
+91range
+Vehicle IDs: 91range, 91range2
+
+'92 AM General M998 + M101A3 Cargo trailer
+https://steamcommunity.com/sharedfiles/filedetails/?id=2642541073
+92amgeneralM998
+Vehicle IDs: 92amgeneralM998, TrailerM101A3cargo
+
+Autotsar Motorclub (motorcycles, atv and jetski)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2778576730
+amclub
+Vehicle IDs: Base.AMC_bmw_classic Base.AMC_bmw_custom Base.AMC_harley Base.AMC_quad Base.AMC_Waverunner Base.TrailerAMCWaverunnerWithBody
+
+Autotsar Trailers (generator trailer, camper and others)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2282429356
+autotsartrailers
+
+Autotsar Tuning Atelier - Bus
+https://steamcommunity.com/sharedfiles/filedetails/?id=2592358528
+ATA_Bus
+
+Autotsar Tuning Atelier - Jaap Wrungel
+https://steamcommunity.com/sharedfiles/filedetails/?id=2636100523
+I'm not sure why there are 4 different ids here.
+Mod ID: ATA_Jeep
+Mod ID: ATA_Jeep_x10
+Mod ID: ATA_Jeep_x2
+Mod ID: ATA_Jeep_x4
+
+
+Filibuster Rhymes' Used Cars!
+https://steamcommunity.com/sharedfiles/filedetails/?id=1510950729
+FRUsedCars - The main mod file, activate this.
+FRUsedCarsNLF - Lore friendly names. Activate this or FRUsedCarsNRN
+FRUsedCarsNRN - Real car names. Activate this or FRUsedCarsNLF
+FRUsedCarsFT - The fuel test mod. You don't need to activate this, but it gives the propane and military fuel truck working gas storage tanks.
+
+Mazda MX-5 Miata
+https://steamcommunity.com/sharedfiles/filedetails/?id=2749103052
+MazdaMiatafhq
+MiataNoWinkSpawn (probably dont?)
+
+W900 Semi-Truck
+https://steamcommunity.com/sharedfiles/filedetails/?id=2759339330
+rSemiTruck
+
+Vehicle Spawn Zones Expanded
+https://steamcommunity.com/sharedfiles/filedetails/?id=2793164190
+Mod ID: fhqExpVehSpawn
+Mod ID: fhqExpVehSpawnGageFarmDisable
+Mod ID: fhqExpVehSpawnM911FarmDisable
+Mod ID: fhqExpVehSpawnP19AFarmDisable
+Mod ID: fhqExpVehSpawnNoVanilla
+Mod ID: fhqExpVehSpawnRedRace
+Put map just above Muldraugh, which should be last.
+Map Folder: MotoriousExpandedSpawnZones
+Map Folder: VehicleSpawnZonesExpandedRedRace
+
+Tread's Military Vehicle Zone Defs
+https://steamcommunity.com/sharedfiles/filedetails/?id=2739565754
+TreadsMilitaryVehicleDefs
+Map Folder: TreadsMilitaryVehicleZoneDefs
+
+UH-60 Black Hawk
+https://steamcommunity.com/sharedfiles/filedetails/?id=2799925193
+Black_Hawk
+
+Chenowth Desert Patrol Vehicle
+https://steamcommunity.com/sharedfiles/filedetails/?id=2793935263
+ChenowthDPV
+
+The HEMTT Vehicle Series
+https://steamcommunity.com/sharedfiles/filedetails/?id=2787752761
+HEMTTSeries
+
+XM93 CBRN
+https://steamcommunity.com/sharedfiles/filedetails/?id=2782916396
+XM93
+
+'67 Cadillac Gage Commando
+https://steamcommunity.com/sharedfiles/filedetails/?id=2478247379
+67commando
+
+'82 Oshkosh M911 + Military Semi-Trailers
+https://steamcommunity.com/sharedfiles/filedetails/?id=2618213077
+82oshkoshM911
+
+'86 Oshkosh P19A + Military Trailers
+https://steamcommunity.com/sharedfiles/filedetails/?id=2566953935
+86oshkoshP19A
+
+Better lockpicking (DONT USE)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2368058459
+betterLockpicking
+
+zRe Better Lockpicking (NEW)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2929123989
+zReBetterLockpicking
+
+Adrenaline - Panic Counters Tiredness (Probably dead, kinda buggy)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2807001835
+ADRENALINE_MOD
+
+Ammo Maker
+https://steamcommunity.com/sharedfiles/filedetails/?id=2788256295
+ammomaker
+
+[Probably Does Nothing!] Ammo Maker for Brita's! (no longer needed)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2803583478
+am_bc
+
+Arsenal[26] GunFighter Mod [2.0]
+https://steamcommunity.com/sharedfiles/filedetails/?id=2297098490
+- You MUST Update Brita's Weapon Pack, GunFighter[2.0] Requires Most Recent Version
+- Do NOT run ANY SERVER_SETTING mods. They are all OBSOLETE
+Arsenal(26)GunFighter
+
+Brita's Weapon Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=2200148440
+Brita
+
+Brita's Armor Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=2460154811
+Brita_2
+
+An Exhilaratingly Organized Literature Mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=2071347174
+LitSortOGSN
+
+G.E.A.R. - GRAPHIC EQUIPMENT APPEARANCE RIG (reupload)
+https://steamcommunity.com/sharedfiles/filedetails/?id=3230874845
+GEARBASIC
+GEARCORE
+
+Water Goes Bad
+https://steamcommunity.com/sharedfiles/filedetails/?id=2849467715
+WaterGoesBad
+This mod makes the water still stored in sinks, baths, etc after 
+the water shutoff become unsafe to drink after a customisable amount of time. 
+
+Authentic Z
+https://steamcommunity.com/sharedfiles/filedetails/?id=2335368829
+Mod ID: Authentic Z - Current
+
+Bushcraft Gear - Tools
+https://steamcommunity.com/sharedfiles/filedetails/?id=2423906082
+BCGTools
+
+ExtraNoise's Newburbs Tiles
+https://steamcommunity.com/sharedfiles/filedetails/?id=2774834715
+EN_Newburbs
+
+Daddy Dirkie dirks tiles
+https://steamcommunity.com/sharedfiles/filedetails/?id=2337452747
+Diederiks Tile Palooza
+
+Dylan's Tile Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=2599752664
+DylansTiles
+
+throttlekitty's tiles
+https://steamcommunity.com/sharedfiles/filedetails/?id=2384329562
+tkTiles_01
+
+Fantasiado's More Street Details
+https://steamcommunity.com/sharedfiles/filedetails/?id=2554699200
+FantaStreetTiles_01
+
+Filibuster Rhymes' Horsin' Around - Build 41! (probably dont use)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2787602743
+FRHorsinAround41
+
+Fluffy Hair
+https://steamcommunity.com/sharedfiles/filedetails/?id=2447729538
+FH
+
+SWAT & RIOT PACK
+https://steamcommunity.com/sharedfiles/filedetails/?id=2091564445
+Swatpack
+
+Water Dispenser
+https://steamcommunity.com/sharedfiles/filedetails/?id=2687798127
+WaterDispenser
+
+Yaki's BarberShop
+https://steamcommunity.com/sharedfiles/filedetails/?id=2810471370
+YakiBS
+
+USMC Armory (dont use) 
+https://steamcommunity.com/sharedfiles/filedetails/?id=2611652130
+DRK_1
+
+Backpack Borders
+https://steamcommunity.com/sharedfiles/filedetails/?id=2808679062
+VISIBLE_BACKPACK_BACKGROUND
+
+4 Color Bic Pen.
+https://steamcommunity.com/sharedfiles/filedetails/?id=2753894806
+4ColorBicPen
+
+Better Sorting
+https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159
+BetterSortCC
+
+Better Hand Wash
+https://steamcommunity.com/sharedfiles/filedetails/?id=2594865484
+Betterhandwash
+
+Boredom Tweaks
+https://steamcommunity.com/sharedfiles/filedetails/?id=2725360009
+BoredomTweaks
+
+Car Dashboard Radio Button (not updated regularly)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2736059670
+Kaldo_CarDashboardRadioButton
+
+Claim Non-Residential Buildings (OBSOLETE)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2160432461
+ClaimNonResidential
+
+Clean dirt
+https://steamcommunity.com/sharedfiles/filedetails/?id=2711057211
+This mod allows you to clean dirt and graffiti from walls and floors with bleach and mop/towel.
+CleanDirt
+
+Clear description for Moodles
+https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806
+MoreCLR_desc4mood
+
+More Description for Traits
+https://steamcommunity.com/sharedfiles/filedetails/?id=2685168362
+MoreDescriptionForTraits4166
+
+Crops Never Rot (looks out of date)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2728416041
+cropsNeverRot
+
+Draw On The Map - Free Hand Drawing
+https://steamcommunity.com/sharedfiles/filedetails/?id=2804531012
+DRAW_ON_MAP
+
+Dynamic Traits Sauce Edition (DONT USE)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2701370059
+This looks to be buggy and out of date, and generally ETW appears to be better
+DynamicTraitsSE
+
+Evolving Traits World (ETW) (NEW)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2914075159
+EvolvingTraitsWorld
+Requires KillCount(2553809727) and MoodleFramework
+
+KillCount (NEW)
+https://steamcommunity.com/workshop/filedetails/?id=2553809727
+KillCount
+
+MoodleFramework (NEW)
+https://steamcommunity.com/workshop/filedetails/?id=2859296947
+MoodleFramework
+
+Mod Options
+https://steamcommunity.com/workshop/filedetails/?id=2169435993
+modoptions
+
+Extra Map Symbols
+https://steamcommunity.com/sharedfiles/filedetails/?id=2701170568
+ExtraMapSymbols
+ExtraMapSymbolsUI (Dont use)
+
+Faction Safehouses With Friends
+https://steamcommunity.com/sharedfiles/filedetails/?id=2717575749
+faction_safehouses
+Adds people in each faction to each others safehouses.
+Seems maybe out of date or not useful.
+
+FuelAPI
+https://steamcommunity.com/sharedfiles/filedetails/?id=2688538916
+FuelAPI
+Might have issues with other mods
+
+Fuel Side Indicator
+https://steamcommunity.com/sharedfiles/filedetails/?id=2616986064
+fuelsideindicator
+
+Improved Hair Menu (out of date and also stops things like cutting hair with scissors)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2732662310
+improvedhairmenu
+
+Jump Through Windows
+https://steamcommunity.com/sharedfiles/filedetails/?id=2688884240
+jumpThroughWindows
+You have to use alt to toggle on sprinting and then it will work
+
+LongLifeBulbs (OBSOLETE)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2715911680
+LongLifeBulbs
+
+Map Legend UI
+https://steamcommunity.com/sharedfiles/filedetails/?id=2710167561
+MapLegendUI
+
+Map Symbol Size Slider (replaced by PLUS)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2734705913
+MapSymbolSizeSlider
+
+Map Symbol Size Slider Plus
+https://steamcommunity.com/sharedfiles/filedetails/?id=2971767698
+MapSymbolSizeSliderPlus
+
+Noir's Attachments
+https://steamcommunity.com/sharedfiles/filedetails/?id=2754567348
+nattachments
+
+Noir's Rifle Slings
+https://steamcommunity.com/sharedfiles/filedetails/?id=2786499395
+noirrsling
+
+Just Throw Them Out The Window
+https://steamcommunity.com/sharedfiles/filedetails/?id=2659216714
+OutTheWindow
+
+Players On Map (not updated, dont use)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2732804047
+PlayersOnMap
+
+Profession Framework ****************************************************************** double check
+https://steamcommunity.com/sharedfiles/filedetails/?id=1343686691
+ProfessionFramework
+(might be needed by something?)
+
+Profession Framework Old Build 41 Patch (OBSOLETE)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2216760107
+ProfessionFrameworkB41Patch
+
+Rain Wash
+https://steamcommunity.com/sharedfiles/filedetails/?id=2657661246
+RainWash
+
+Read Faster When Sitting
+https://steamcommunity.com/sharedfiles/filedetails/?id=1938484133
+ReadFasterWhenSitting
+
+Read While Walking (who cares?)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2845952197
+SimpleReadWhileWalking41
+
+Share Annotations (has a problem with draw on map, probably use one or the other)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2815560151
+BLTAnnotations
+
+Simple Playable Pianos
+https://steamcommunity.com/sharedfiles/filedetails/?id=2465017864
+SimplePlayablePianos4150
+
+Tidy Up Meister
+https://steamcommunity.com/sharedfiles/filedetails/?id=2769706949
+Returns items to containers after using them
+P4TidyUpMeister
+
+True Music
+https://steamcommunity.com/sharedfiles/filedetails/?id=2613146550
+truemusic
+
+True Actions. Act 1 & 2 - Sitting & Lying [for MP disable anti-cheat type 12]
+https://steamcommunity.com/sharedfiles/filedetails/?id=2487022075
+TMC_TrueActions
+
+True Actions. Act 3 - Dancing
+https://steamcommunity.com/sharedfiles/filedetails/?id=2648779556
+TrueActionsDancing
+
+Two Weapons on Back (Outdated)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2790894055
+TwoWeaponsOnBack
+
+Weapon Condition Indicator [41.60+]
+https://steamcommunity.com/sharedfiles/filedetails/?id=2619072426
+TheStar
+
+Wring Out Clothing
+https://steamcommunity.com/sharedfiles/filedetails/?id=2696083206
+wringclothes
+
+You drive, I sleep (who cares dont add)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2830570280
+YouDriveISleep
+
+blindcoders Modding Utility (skipping)
+https://steamcommunity.com/sharedfiles/filedetails/?id=503640135
+bcUtils
+Not sure what this is used by
+
+Skill Recovery Journal
+https://steamcommunity.com/sharedfiles/filedetails/?id=2503622437
+SkillRecoveryJournal
+
+Mod Manager
+https://steamcommunity.com/sharedfiles/filedetails/?id=2694448564
+ModManager
+
+(all new)
+
+Decoholic
+https://steamcommunity.com/sharedfiles/filedetails/?id=3197857648
+P4Decoholic
+
+Wild Fruit Farming
+https://steamcommunity.com/sharedfiles/filedetails/?id=3212598831
+WildFruitFarming
+
+Spongie's Hair
+https://steamcommunity.com/sharedfiles/filedetails/?id=2463184726
+SpnHair
+
+Sleep On It
+https://steamcommunity.com/sharedfiles/filedetails/?id=2673713236
+sleeponit
+
+Nepenthe's Nearby Traps
+https://steamcommunity.com/sharedfiles/filedetails/?id=2974760428
+NepNearbyTraps
+
+Advanced Trapping
+https://steamcommunity.com/sharedfiles/filedetails/?id=2852333263
+advanced_trapping
+
+Simon MDs Tiles
+https://steamcommunity.com/workshop/filedetails/?id=2852704777
+simonMDsTiles
+
+Melos Tiles for Miles Tilepack
+https://steamcommunity.com/workshop/filedetails/?id=2879745353
+melos_tiles_for_miles_pack
+
+===== MAPS ======
+
+Fort Benning
+https://steamcommunity.com/sharedfiles/filedetails/?id=2693585128
+ModID: Fort Benning
+Map Folder: Fort Benning
+
+Fort Redstone
+https://steamcommunity.com/sharedfiles/filedetails/?id=1516836158
+Mod: FORTREDSTONE
+Map: FortRedstone
+
+Fort Waterfront (might cause issues it looks like, skip)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2779248414
+Mod ID: Fort Waterfront
+Map Folder: Fort Waterfront
+
+Louisville Spawnpoints (meh? also looks like it doesnt work in MP)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2678653895
+Mod ID: LouisVille SP
+Map Folder: Louisville, KY
+
+McCoy's Bunker
+https://steamcommunity.com/sharedfiles/filedetails/?id=2794721857
+Mod ID: McCoysBunker
+Map Folder: McCoysBunker
+conflicts with Louisiana international airport
+
+Raven Creek
+https://steamcommunity.com/sharedfiles/filedetails/?id=2196102849
+Mod ID: RavenCreek
+Map Folder: RavenCreek
+City surrounded by concrete? Like hundreds of tiles of concrete?
+Probably skip
+
+Raven Creek Spawns
+https://steamcommunity.com/sharedfiles/filedetails/?id=2752808034
+Mod ID: SpawnsRC
+Map Folder: Raven Creek
+
+Redstone Raceway
+https://steamcommunity.com/sharedfiles/filedetails/?id=2707344076
+Mod ID: RedRacer
+Map Folder: RedstoneRaceway
+
+Seaside
+https://steamcommunity.com/sharedfiles/filedetails/?id=2783179512
+Mod ID: Seaside
+Map Folder: Seaside
+
+Bedford Falls
+https://steamcommunity.com/sharedfiles/filedetails/?id=522891356
+Mod ID: BedfordFalls
+Map Folder: BedfordFalls
+Map Folder: North
+Map Folder: South
+Map Folder: West
+(Add all NSEW as well)
+
+Blackwood
+https://steamcommunity.com/sharedfiles/filedetails/?id=2536865912
+Mod ID: Blackwood
+Map Folder: Blackwood
+
+LV International Airport
+https://steamcommunity.com/sharedfiles/filedetails/?id=3045726312
+Mod ID: SimonMDLVInternationalAirport
+Map Folder: lvinternationalairport
+
+Louisville Shipping Port
+https://steamcommunity.com/sharedfiles/filedetails/?id=3149613879
+Mod ID: SimonMDLVHarbor
+Map Folder: lvharbor
